@@ -3,6 +3,13 @@
 A mod that turns [Stardew Valley][sv] into a cozy murder mystery.
 Clint just got what he deserves, but whodunnit?
 
+## Collaborators
+
+-   [Jane Felicia Jonatan](https://github.com/kynmiiso)
+-   [Greg Wilson](https://github.com/gvwilson)
+-   [Caroline Xiao](https://github.com/hydroxyl-radical)
+-   [Nicole Yu](https://github.com/nyu24)
+
 ## Resources
 
 -   [Grave Seasons][grave-seasons]: bills itself as an SV-like game with a serial killer.
